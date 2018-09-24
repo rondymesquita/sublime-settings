@@ -16,7 +16,7 @@
 ```
 
 # Setup
-````bash
+```bash
 git init
 git remote add origin https://github.com/rondymesquita/sublime-settings.git
 git fetch
