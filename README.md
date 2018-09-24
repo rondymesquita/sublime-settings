@@ -1,8 +1,16 @@
 # Sublime Settings
 
 # Windows
- cd "/c/Users/$USERNAME/AppData/Roaming/Sublime Text 3/Packages/User"/
+```bash
+ cd "$APPDATA/Sublime Text 3/Packages/User"
+```
 
 # Linux
+```bash
+ cd ~/.config/sublime-text-3
+```
 
 # MacOS
+```bash
+ cd ~/Library/Application Support/Sublime Text 3
+```
