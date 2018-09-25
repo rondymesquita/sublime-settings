@@ -7,12 +7,12 @@
 
 ## Linux
 ```bash
- cd ~/.config/sublime-text-3
+ cd ~/.config/sublime-text-3/Packages/User
 ```
 
 ## MacOS
 ```bash
- cd ~/Library/Application Support/Sublime Text 3
+ cd ~/Library/Application Support/Sublime Text 3/Packages/User
 ```
 
 # Setup
