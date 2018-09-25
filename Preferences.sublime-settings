@@ -21,6 +21,7 @@
 		"*.js.html"
 	],
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -32,7 +33,7 @@
 		"node_modules/*",
 		"dist/*"
 	],
-	"font_face": "Fira Code",
+	"font_face": "Fira Code Bold",
 	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
@@ -44,7 +45,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Reverse Gravity.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"ui_scale": 1.2
 }
