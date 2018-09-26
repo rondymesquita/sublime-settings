@@ -21,7 +21,6 @@
 		"*.js.html"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -44,7 +43,6 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"tab_size": 2,
-	"theme": "Reverse Gravity.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"ui_scale": 1.2
 }
