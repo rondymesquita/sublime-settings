@@ -11,6 +11,7 @@
 
 # Plugins configuration
 !Bash.sublime-settings
+!ColorHighlighter.sublime-settings
 !JavaScript (Babel).sublime-settings
 !SublimeLinter.sublime-settings
 !Vue Component.sublime-settings
