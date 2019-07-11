@@ -30,15 +30,17 @@
 		".hg",
 		"CVS",
 		"node_modules/*",
-		"dist/*"
+		"dist/*",
+		"docs/*"
 	],
-	"font_face": "Fira Code Bold",
+	"font_face": "PT Mono",
 	"font_size": 10,
+	"gni_001": false,
+	"gni_002": false,
+	"gni_003": false,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
