@@ -21,7 +21,7 @@
 		"*.js.html"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro.sublime-color-scheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -32,18 +32,22 @@
 		"CVS",
 		"node_modules/*",
 		"dist/*",
-		"docs/*"
+		"docs/*",
+		"android/build",
+		"android/app/build",
+		"android/.gradle",
+		"ios",
+		"**/dist/*",
+		"reports/*"
 	],
 	"font_face": "PT Mono",
-	"font_size": 10,
+	"font_size": 13,
 	"gni_001": false,
 	"gni_002": false,
 	"gni_003": false,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Boxy Theme",
-		"Boxy Theme Addon - Mono File Icons",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
