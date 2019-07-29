@@ -21,7 +21,7 @@
 		"*.js.html"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).sublime-color-scheme",
+	"color_scheme": "Packages/User/electron (SublimePythonIDE).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -32,7 +32,7 @@
 		"CVS",
 		"node_modules/*",
 		"dist/*",
-		"docs/*",
+		"**/docs/*",
 		"android/build",
 		"android/app/build",
 		"android/.gradle",

@@ -1,4 +1,4 @@
-# Sublime Settings
+# My Sublime Text 3 Settings
 
 ## Windows
 ```bash
@@ -12,7 +12,7 @@
 
 ## MacOS
 ```bash
- cd ~/Library/Application Support/Sublime Text 3/Packages/User
+ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 ```
 
 # Setup
