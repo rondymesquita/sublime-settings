@@ -21,8 +21,9 @@
 		"*.js.html"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "Packages/User/Dracula (SublimePythonIDE).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"default_line_ending": "unix",
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
@@ -41,7 +42,7 @@
 		"reports/*"
 	],
 	"font_face": "PT Mono",
-	"font_size": 13,
+	"font_size": 8,
 	"gni_001": false,
 	"gni_002": false,
 	"gni_003": false,
