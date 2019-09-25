@@ -32,6 +32,7 @@
 		"Golang Build",
 		"Golang Tools Integration",
 		"Halcyon Theme",
+		"HTML-CSS-JS Prettify",
 		"HyperClick",
 		"JS Snippets",
 		"JSON Reindent",
@@ -49,6 +50,7 @@
 		"One Half Color Schemes",
 		"Package Control",
 		"PackageResourceViewer",
+		"Pumpkin Color Scheme",
 		"React ES6 Snippets",
 		"Sass",
 		"Seth Color Scheme",
@@ -58,8 +60,8 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-shellcheck",
-		"SublimePythonIDE",
 		"Sunrise Theme",
+		"Terminus",
 		"Theme - Gravity",
 		"Theme - Monokai Pro",
 		"Theme - Sodarized",
@@ -68,6 +70,7 @@
 		"TypeScript Syntax",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets",
-		"Vuetify"
+		"Vuetify",
+		"Witch Hazel"
 	]
 }
