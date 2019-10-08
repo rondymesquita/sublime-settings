@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Boxy Theme Addon - Mono File Icons"
 	],
 	"installed_packages":
 	[
@@ -23,7 +24,6 @@
 		"Electron Color Scheme",
 		"Emmet",
 		"ESLint-Formatter",
-		"FileIcons",
 		"Flow",
 		"Focus File on Sidebar",
 		"GitDiffHelper",
@@ -41,9 +41,6 @@
 		"LSP",
 		"LSP-html",
 		"LSP-vue",
-		"MarkdownEditing",
-		"MarkdownLivePreview",
-		"MarkdownPreview",
 		"Monarch",
 		"nginx",
 		"Nginx Log Highlighter",

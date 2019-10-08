@@ -21,7 +21,7 @@
 		"*.js.html"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/witchhazel (SublimePythonIDE).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -49,12 +49,13 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Boxy Theme Addon - Mono File Icons",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"ui_scale": 1.2
 }
