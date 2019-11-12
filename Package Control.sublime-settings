@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Boxy Theme Addon - Mono File Icons"
 	],
 	"installed_packages":
 	[
@@ -49,7 +48,6 @@
 		"Pumpkin Color Scheme",
 		"React ES6 Snippets",
 		"Sass",
-		"Search in Project",
 		"Seth Color Scheme",
 		"SFTP",
 		"SideBarEnhancements",
