@@ -49,7 +49,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Boxy Theme Addon - Mono File Icons",
+		"JsFormat",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
