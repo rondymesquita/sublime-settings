@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Boxy Theme Addon - Mono File Icons"
 	],
 	"installed_packages":
 	[
@@ -36,9 +35,6 @@
 		"JSON Reindent",
 		"JSON Stringify",
 		"JsPrettier",
-		"LSP",
-		"LSP-html",
-		"LSP-vue",
 		"Monarch",
 		"nginx",
 		"Nginx Log Highlighter",
