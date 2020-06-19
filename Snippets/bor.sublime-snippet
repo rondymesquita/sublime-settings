@@ -3,6 +3,6 @@
 border: 1px solid red;
 ]]></content>
 <tabTrigger>bor</tabTrigger>
-<description>Add red border to element</description>
+<description>border: 1px solid red;</description>
 <scope>text.html.vue, source.scss.embedded.html, source.scss, meta.property-name.css, support.type.property-name.css</scope>
 </snippet>

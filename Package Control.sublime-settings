@@ -37,6 +37,7 @@
 		"JSON Stringify",
 		"JsPrettier",
 		"Keymaps",
+		"MarkdownLivePreview",
 		"Monarch",
 		"nginx",
 		"Nginx Log Highlighter",
@@ -53,9 +54,11 @@
 		"SideBarEnhancements",
 		"SnippetMaker",
 		"StandardSnippets",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-shellcheck",
+		"Sublimerge 3",
 		"Sunrise Theme",
 		"Terminus",
 		"Theme - Gravity",
@@ -66,7 +69,6 @@
 		"TypeScript Syntax",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets",
-		"Vuetify",
 		"Witch Hazel"
 	]
 }
