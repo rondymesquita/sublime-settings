@@ -42,12 +42,12 @@
 		"**/dist/*",
 		"reports/*"
 	],
-	"font_face": "PT Mono",
 	"font_options":
 	[
 		"dwrite_cleartype_natural"
 	],
-	"font_size": 10,
+	"font_face": "Operator Mono Book",
+	"font_size": 12,
 	"gni_001": false,
 	"gni_002": false,
 	"gni_003": false,
