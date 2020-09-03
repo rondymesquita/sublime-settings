@@ -42,10 +42,10 @@
 		"**/dist/*",
 		"reports/*"
 	],
-	"font_face": "PT Mono",
+	"font_face": "Cascadia Code",
 	"font_options":
 	[
-		"dwrite_cleartype_natural"
+		//"dwrite_cleartype_natural"
 	],
 	"font_size": 10,
 	"gni_001": false,
@@ -55,6 +55,7 @@
 	"ignored_packages":
 	[
 		"FileIcons",
+		"JSX",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
