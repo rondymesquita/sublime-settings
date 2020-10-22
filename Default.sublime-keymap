@@ -2,6 +2,11 @@
   { "keys": ["f12"], "command": "htmlprettify"},
   { "keys": ["ctrl+up"], "command": "fold" },
   { "keys": ["ctrl+down"], "command": "unfold" },
+  { "keys": ["ctrl+k", "ctrl+f"], "command": "format_eslint", "context":
+    [
+      { "key": "selector", "operator": "equal", "operand": "source.ts, source.tsx, source.js, source.jsx" }
+    ]
+  },
 
   { "keys": ["ctrl+space"], "command": "auto_complete" },
   { "keys": ["ctrl+space"], "command": "replace_completion_with_auto_complete", "context":
@@ -16,7 +21,6 @@
   { "keys": ["ctrl+shift+f4"], "command": "close_all" },
   { "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": true } },
   { "keys": ["ctrl+shift+h"], "command": "show_panel", "args": {"panel": "find_in_files"} },
-  { "keys": ["super+shift+h"], "command": "run_macro_file", "args": {"file": "Packages/User/macros/format-js.sublime-macro"} },
   { "keys": ["ctrl+shift+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["ctrl+shift+s"], "command": "save_all" },
   { "keys": ["ctrl+shift+x"], "command": "upper_case" },
