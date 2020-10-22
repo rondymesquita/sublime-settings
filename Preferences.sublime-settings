@@ -46,7 +46,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 12,
+	"font_size": 8,
 	"gni_001": false,
 	"gni_002": false,
 	"gni_003": false,
@@ -60,7 +60,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"tab_size": 2,
-	"theme": "Pigment.sublime-theme",
+	"theme": "Gravity One.sublime-theme",
 	"theme_font_options":
 	[
 		"dwrite_cleartype_natural"
